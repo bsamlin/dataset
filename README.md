@@ -1,1 +1,1 @@
-# dataset is a dataset for camera focus.
+# dataset is a dataset for camera focus adjusting.
